@@ -33,22 +33,14 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: fedora:latest
-    env:
-      HUGO_VERSION: 0.156.0
     steps:
       - name: Install dependencies
         run: |
-          dnf install -y git golang nodejs wget tar
+          dnf install -y git
 
       - name: Install Hugo CLI
         run: |
           dnf install -y hugo
-
-      - name: Install Dart Sass
-        run: |
-          wget -O dart-sass.tar.gz "https://github.com/sass/dart-sass/releases/download/1.97.3/dart-sass-1.97.3-linux-x64.tar.gz"
-          tar -xzf dart-sass.tar.gz
-          cp -r dart-sass/* /usr/local/bin/
 
       - name: Checkout
         uses: actions/checkout@v6
@@ -59,9 +51,6 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-
-      - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
 
       - name: Build with Hugo
         env:

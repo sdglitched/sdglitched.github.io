@@ -3,6 +3,11 @@ languageCode: en-us
 title: sdglitched
 theme: ["PaperMod"]
 
+# Cache configuration for GitHub Pages deployment
+caches:
+  images:
+    dir: :cacheDir/images
+
 params:
   # Profile mode for homepage
   profileMode:

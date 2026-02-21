@@ -1,0 +1,74 @@
+baseURL: https://sdglitched.github.io/
+languageCode: en-us
+title: sdglitched
+theme: ["PaperMod"]
+
+# Cache configuration for GitHub Pages deployment
+caches:
+  images:
+    dir: :cacheDir/images
+
+params:
+  # Profile mode for homepage
+  profileMode:
+    enabled: true
+    title: "Hi, I'm Shounak Dey (aka sdglitched)"
+    subtitle: Software Developer | DataWarehouse Engineer | Open Source Enthusiast
+    imageUrl: "/images/profile.jpeg"
+    imageWidth: 400
+    imageHeight: 400
+    imageTitle: Profile picture
+
+
+  # Social icons
+  socialIcons:
+    - name: github
+      url: "https://github.com/sdglitched"
+    - name: gitlab
+      url: "https://gitlab.com/sdglitched"
+    - name: linkedin
+      url: "https://linkedin.com/in/sdglitched"
+    - name: email
+      url: "mailto:shounakdey@ymail.com"
+    - name: twitter
+      url: "https://x.com/sdglitched"
+    - name: matrix
+      url: "https://matrix.to/#/@sdglitched:fedora.im?web-instance[element.io]=chat.fedoraproject.org"
+    - name: cv
+      url: "https://github.com/sdglitched/sdglitched/blob/main/resumes/Shounak_Dey_Resume_20250723.pdf"
+
+  # Search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# Navigation menu
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 20
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40

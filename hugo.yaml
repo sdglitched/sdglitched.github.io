@@ -19,7 +19,6 @@ params:
     imageHeight: 400
     imageTitle: Profile picture
 
-
   # Social icons
   socialIcons:
     - name: github

@@ -3,12 +3,23 @@ languageCode: en-us
 title: sdglitched
 theme: ["PaperMod"]
 
+# Markup settings
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 # Cache configuration for GitHub Pages deployment
 caches:
   images:
     dir: :cacheDir/images
 
 params:
+  # Main sections - used for listing posts
+  mainSections:
+    - blog
+    - posts
+
   # Profile mode for homepage
   profileMode:
     enabled: true

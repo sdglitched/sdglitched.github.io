@@ -67,8 +67,8 @@ This experience has only fueled my enthusiasm for representing [Fedora Project](
 
 A huge shoutout to:
 
-- **[Akash](https://fedoraproject.org/wiki/User:T0xic0der)**, **[Samyak](https://fedoraproject.org/wiki/User:Samyak)** and **[Yashwant](https://fedoraproject.org/wiki/User:Yashwanth)** for being amazing booth companions
-- **[Matthew Miller](https://mattdm.org/)** for visting India for increaing the community presence of [Fedora Project](https://fedoraproject.org/) at APAC region and delivering such an inspiring talk
+- **[Akash](https://fedoraproject.org/wiki/User:T0xic0der)**, **[Samyak](https://fedoraproject.org/wiki/User:Jnsamyak)** and **[Yashwanth](https://fedoraproject.org/wiki/User:Thisisyaash)** for being amazing booth companions
+- **[Matthew Miller](https://mattdm.org/)** for visiting India for increasing the community presence of [Fedora Project](https://fedoraproject.org/) in the APAC region and delivering such an inspiring talk
 - All the attendees who visited us, asked questions and showed interest in [Fedora Project](https://fedoraproject.org/)
 - The [Fedora Project](https://fedoraproject.org/) for giving me this opportunity
 

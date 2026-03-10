@@ -98,17 +98,17 @@ The questions came fast and furious from enthusiastic students, developers and o
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="images/booth_representaion_1.jpg" alt="Booth Representation" width="100%">
+<img src="images/booth_representation_1.jpg" alt="Booth Representation" width="100%">
 <span style="color: var(--secondary); font-size: 14px; font-weight: 400;">Booth Representation (Akashdeep Dhar, CC BY-SA 4.0)</span>
 </td>
 <td width="50%" align="center">
-<img src="images/booth_representaion_2.jpg" alt="Booth Representation" width="100%">
+<img src="images/booth_representation_2.jpg" alt="Booth Representation" width="100%">
 <span style="color: var(--secondary); font-size: 14px; font-weight: 400;">Booth Representation (Akashdeep Dhar, CC BY-SA 4.0)</span>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="images/booth_representaion_3.jpg" alt="Booth Representation" width="100%">
+<img src="images/booth_representation_3.jpg" alt="Booth Representation" width="100%">
 <span style="color: var(--secondary); font-size: 14px; font-weight: 400;">Booth Representation (Akashdeep Dhar, CC BY-SA 4.0)</span>
 </td>
 </tr>
@@ -135,9 +135,9 @@ The **special swag** (a Fedora-branded sipper) was reserved for those who scored
 
 While all this was happening, [Akash](https://fedoraproject.org/wiki/User:T0xic0der) and I left [Samyak](https://fedoraproject.org/wiki/User:Jnsamyak) and [Yashwanth](https://fedoraproject.org/wiki/User:Thisisyaash) to handle the booth. During this time, the footfall was reduced as most of the attendees had left for lunch.
 
-After climbing **8 floors** through sixteen flights of stairs alongs with [Akash](https://fedoraproject.org/wiki/User:T0xic0der) to make it at the dining establishment arranged by [DevConf.IN](https://www.devconf.info/in/) which was informed to by us by volunteer Rahul Sharma around **01:00 PM**. We did end up wasting our time though, since we found a huge queue at that place.
+After climbing **8 floors** through sixteen flights of stairs along with [Akash](https://fedoraproject.org/wiki/User:T0xic0der), we reached the dining establishment arranged by [DevConf.IN](https://www.devconf.info/in/), which volunteer Rahul Sharma had informed us about around **01:00 PM**. We did end up wasting our time though, since we found a huge queue at that place.
 
-While comming back dissapponted and hungry we met Pravin Satpute, who suggested that we have lunch at the cafeteria on the fifth floor. Due to this samll suggestion, [Akash](https://fedoraproject.org/wiki/User:T0xic0der) and I finally managed to squeeze in a **15 minutes** lunch break along with [Avadhoot Dhere](https://www.linkedin.com/in/avadhoot-dhere-a035801a2/). Yes, you read that right **15 minutes!!** Conference life is no joke!
+While coming back disappointed and hungry we met Pravin Satpute, who suggested that we have lunch at the cafeteria on the fifth floor. Due to this small suggestion, [Akash](https://fedoraproject.org/wiki/User:T0xic0der) and I finally managed to squeeze in a **15 minutes** lunch break along with [Avadhoot Dhere](https://www.linkedin.com/in/avadhoot-dhere-a035801a2/). Yes, you read that right **15 minutes!!** Conference life is no joke!
 
 The dining choice was limited to a *Vegetarian Biryani* and *Cold Coffee*, but at around **02:30 PM**, that felt like a divine serving.
 

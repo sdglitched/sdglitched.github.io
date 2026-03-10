@@ -4,7 +4,7 @@ date: 2026-02-14
 draft: false
 weight: 3
 author: "Shounak Dey"
-description: "Day 2 at DevConf.IN 2026 - Deep conversations, booth hopping adventures, Matthew Miller's inspiring talkengaging with budding Linux enthusiasts and ending with a community dinner."
+description: "Day 2 at DevConf.IN 2026 - Deep conversations, booth hopping adventures, Matthew Miller's inspiring talk, engaging with budding Linux enthusiasts and ending with a community dinner."
 summary: "Day 2 at DevConf.IN 2026 - Deep conversations, booth hopping adventures, Matthew Miller's inspiring talk, engaging with budding Linux enthusiasts and ending with a community dinner."
 tags: ["community", "conference", "devconf", "fedora", "open-source"]
 categories: ["Events", "DevConf", "Fedora"]
@@ -49,7 +49,7 @@ As the day progressed, the number of attendees steadily increased. We received s
 
 ## A Memorable Conversation with Swamprakash
 
-As I was talking with attendes, I met [Swamprakash](https://www.linkedin.com/in/swayamprakashpatro/), a student from [MIT WPU](https://maps.app.goo.gl/F1Ju9MJaSqCNMpsV8) and we had what turned out to be one of the most meaningful conversations of the conference.
+As I was talking with attendees, I met [Swamprakash](https://www.linkedin.com/in/swayamprakashpatro/), a student from [MIT WPU](https://maps.app.goo.gl/F1Ju9MJaSqCNMpsV8) and we had what turned out to be one of the most meaningful conversations of the conference.
 
 We talked about:
 
@@ -104,7 +104,7 @@ At around **12:00 PM**, I left the booth in the capable hands of [Akash](https:/
 
 Here's what we explored:
 
-- **[FOSS United](https://fossunited.org/)**: The folks running the booth explained that FOSS United is a non profit foundation promoting and strengthening the FOSS ecosystem in India. We learned about their flagship event [FOSS HACK](https://fossunited.org/fosshack/2026) scheduled for the coming month (March'26). [FOSS United](https://fossunited.org/) is doing great work promoting open-source culture in India!
+- **[FOSS United](https://fossunited.org/)**: The folks running the booth explained that FOSS United is a non-profit foundation promoting and strengthening the FOSS ecosystem in India. We learned about their flagship event [FOSS HACK](https://fossunited.org/fosshack/2026) scheduled for the coming month (March'26). [FOSS United](https://fossunited.org/) is doing great work promoting open-source culture in India!
 
 {{< figure src="images/foss_united.JPG" alt="FOSS United Booth" caption="FOSS United Booth (Shounak Dey, CC BY-SA 4.0)" align="center" >}}
 
@@ -114,7 +114,7 @@ Here's what we explored:
 
 - **[FreeIPA](https://www.freeipa.org/)**: I already knew a bit about FreeIPA as I've seen it used in some of the [Fedora Apps](https://apps.fedoraproject.org/) that I've contributed to, but I didn't know that FreeIPA is the upstream open-source project for Red Hat Identity Management. The folks running the booth were stormed with attendees just like our booth, and yet they managed to show a fantastic **live demonstration of passkey authentication** along with **Fedora integration**.
 
-- **Secure Flow ([Tekton](https://tekton.dev/) & [Argo CD](https://argo-cd.readthedocs.io/en/stable/))**: This booth was particularly technical, and the booth staff were not very eager to explain what these tools are about. From the brief explanation I received, I understood that Argo CD and Tekton are tools that automate software building and deployment on Kubernetes. Tekton handles building and testing, while Argo CD handles automated deployment. I tried their trivia that dove deep into the **working mechanisms behind the scenes**, which I cant't know (duhhh).
+- **Secure Flow ([Tekton](https://tekton.dev/) & [Argo CD](https://argo-cd.readthedocs.io/en/stable/))**: This booth was particularly technical, and the booth staff were not very eager to explain what these tools are about. From the brief explanation I received, I understood that Argo CD and Tekton are tools that automate software building and deployment on Kubernetes. Tekton handles building and testing, while Argo CD handles automated deployment. I tried their trivia that dove deep into the **working mechanisms behind the scenes**, which I can't know (duhhh).
 
 - **[Backstage](https://backstage.io/)**: Learned a bit more about what [Backstage](https://backstage.io/) offers at the **enterprise level** - building developer portals and improving developer experience at scale. I asked how [Backstage](https://backstage.io/) is different from [ServiceNow](https://www.servicenow.com/in/) apart from [Backstage](https://backstage.io/) being free and open source, but the answer was unsatisfying. I tried the crossword puzzle they prepared, but since [Matthew's](https://mattdm.org/) talk was coming up soon, I had to leave it unfinished.
 
@@ -237,7 +237,7 @@ As I was reflecting on today's experience, [Samyak](https://fedoraproject.org/wi
 
 Meanwhile, [Avadhoot](https://www.linkedin.com/in/avadhoot-dhere-a035801a2/) joined us and [Akash](https://fedoraproject.org/wiki/User:T0xic0der) extended the invitation to him as well. [Akash](https://fedoraproject.org/wiki/User:T0xic0der) started looking for a cab while we took some photos at the [DevConf.IN](https://www.devconf.info/in/) photo booth and banner.
 
-Once the cab arrived, [Akash](https://fedoraproject.org/wiki/User:T0xic0der), [Samyak](https://fedoraproject.org/wiki/User:Jnsamyak), [Yashwanth](https://fedoraproject.org/wiki/User:Yashwanth), and I boarded it while [Avadhoot](https://www.linkedin.com/in/avadhoot-dhere-a035801a2/) used his scooter to get to the location.
+Once the cab arrived, [Akash](https://fedoraproject.org/wiki/User:T0xic0der), [Samyak](https://fedoraproject.org/wiki/User:Jnsamyak), [Yashwanth](https://fedoraproject.org/wiki/User:Thisisyaash), and I boarded it while [Avadhoot](https://www.linkedin.com/in/avadhoot-dhere-a035801a2/) used his scooter to get to the location.
 
 <table>
 <tr>
@@ -270,11 +270,11 @@ Once the cab arrived, [Akash](https://fedoraproject.org/wiki/User:T0xic0der), [S
 
 ## Celebratory Lunch (Finally!)
 
-After the non-stop action, we finally sat down for our **first proper meal of the day**, lunch at [La Sicilia Bistro and Patisserie](https://lasiciliarestaurant.in/) with [Akash](https://fedoraproject.org/wiki/User:T0xic0der), [Samyak](https://fedoraproject.org/wiki/User:Jnsamyak), [Yashwant](https://fedoraproject.org/wiki/User:Yashwanth) and [Avadhoot](https://www.linkedin.com/in/avadhoot-dhere-a035801a2/).
+After the non-stop action, we finally sat down for our **first proper meal of the day**, lunch at [La Sicilia Bistro and Patisserie](https://lasiciliarestaurant.in/) with [Akash](https://fedoraproject.org/wiki/User:T0xic0der), [Samyak](https://fedoraproject.org/wiki/User:Jnsamyak), [Yashwanth](https://fedoraproject.org/wiki/User:Thisisyaash) and [Avadhoot](https://www.linkedin.com/in/avadhoot-dhere-a035801a2/).
 
-A restaurant staff member informed us that a portion of the menu would be closed in **10 minutes**, so we quickly started ordering food. [Samyak](https://fedoraproject.org/wiki/User:Jnsamyak) and [Avadhoot](https://www.linkedin.com/in/avadhoot-dhere-a035801a2/) started browsing the vegetarian options while [Akash](https://fedoraproject.org/wiki/User:T0xic0der), [Yashwant](https://fedoraproject.org/wiki/User:Yashwanth) and I started browsing the non-vegetarian options.
+A restaurant staff member informed us that a portion of the menu would be closed in **10 minutes**, so we quickly started ordering food. [Samyak](https://fedoraproject.org/wiki/User:Jnsamyak) and [Avadhoot](https://www.linkedin.com/in/avadhoot-dhere-a035801a2/) started browsing the vegetarian options while [Akash](https://fedoraproject.org/wiki/User:T0xic0der), [Yashwanth](https://fedoraproject.org/wiki/User:Thisisyaash) and I started browsing the non-vegetarian options.
 
-[Samyak](https://fedoraproject.org/wiki/User:Jnsamyak) and [Avadhoot](https://www.linkedin.com/in/avadhoot-dhere-a035801a2/) had lost their appetite due to the delay and only chose Veg Manchow Soup, Paneer Angara Kebab, and Cottage Cheese Bao, while [Akash](https://fedoraproject.org/wiki/User:T0xic0der), [Yashwant](https://fedoraproject.org/wiki/User:Yashwanth) and I were absolutely starving and chose Murgh Chilada Kebab, Tandoori Jhinga, Butter Garlic Prawns, Fish and Chips, Chicken Chipotle Pizza, and Paprika Chicken Pizza.
+[Samyak](https://fedoraproject.org/wiki/User:Jnsamyak) and [Avadhoot](https://www.linkedin.com/in/avadhoot-dhere-a035801a2/) had lost their appetite due to the delay and only chose Veg Manchow Soup, Paneer Angara Kebab, and Cottage Cheese Bao, while [Akash](https://fedoraproject.org/wiki/User:T0xic0der), [Yashwanth](https://fedoraproject.org/wiki/User:Thisisyaash) and I were absolutely starving and chose Murgh Chilada Kebab, Tandoori Jhinga, Butter Garlic Prawns, Fish and Chips, Chicken Chipotle Pizza, and Paprika Chicken Pizza.
 
 <table>
 <tr>
@@ -309,7 +309,7 @@ A restaurant staff member informed us that a portion of the menu would be closed
 </tr>
 </table>
 
-While waiting for the food to arrive, [Akash](https://fedoraproject.org/wiki/User:T0xic0der) asked us to share our most memorable experiences from both Day 1 and Day 2. I started by sharing my overall experience, highlighting the deep conversation with [Swamprakash](https://www.linkedin.com/in/swayamprakashpatro/) and a weird incident where an attendee grabbed an entire stack of 50 stickers for themselves. [Yashwant](https://fedoraproject.org/wiki/User:Yashwanth) said his funniest moment was witnessing [Samyak](https://fedoraproject.org/wiki/User:Jnsamyak) writing a note saying "We are the [Fedora Project](https://fedoraproject.org/) booth and not the registration desk" for those attendees who thought the immense crowd meant it had to be the registration desk. [Akash](https://fedoraproject.org/wiki/User:T0xic0der) mentioned that for him, the most memorable encounter was discovering that Red Hat employees were interested in contributing to upstream projects, including the [Fedora Project](https://fedoraproject.org/).
+While waiting for the food to arrive, [Akash](https://fedoraproject.org/wiki/User:T0xic0der) asked us to share our most memorable experiences from both Day 1 and Day 2. I started by sharing my overall experience, highlighting the deep conversation with [Swamprakash](https://www.linkedin.com/in/swayamprakashpatro/) and a weird incident where an attendee grabbed an entire stack of 50 stickers for themselves. [Yashwanth](https://fedoraproject.org/wiki/User:Thisisyaash) said his funniest moment was witnessing [Samyak](https://fedoraproject.org/wiki/User:Jnsamyak) writing a note saying "We are the [Fedora Project](https://fedoraproject.org/) booth and not the registration desk" for those attendees who thought the immense crowd meant it had to be the registration desk. [Akash](https://fedoraproject.org/wiki/User:T0xic0der) mentioned that for him, the most memorable encounter was discovering that Red Hat employees were interested in contributing to upstream projects, including the [Fedora Project](https://fedoraproject.org/).
 
 Meanwhile, our lunch arrived and we started digging in as the hunger was overwhelming at that point.
 
@@ -321,29 +321,29 @@ After sharing laughs and reflecting on the incredible experience we had over the
 
 {{< figure src="images/dinner_at_ishaara.jpeg" alt="Community Dinner at Ishaara" caption="Community Dinner at Ishaara (Akashdeep Dhar, CC BY-SA 4.0)" align="center" >}}
 
-Before [DevConf.IN 2026](https://www.devconf.info/in/) even started, [Samyak](https://fedoraproject.org/wiki/User:Jnsamyak) created hype for the grand Community Dinner at [Ishaara](https://www.bellonahospitality.com/ishaara), a unique restaurant that employs specially-abled people, offering both great food and a meaningful dining experience. The dinner was supposed to include [Matthew](https://mattdm.org/), Karen (Matthew's wife), [Sayak](https://fedoraproject.org/wiki/User:Sayaksarkar), [Sudhir](https://www.linkedin.com/in/sudhir-dharanendraiah-80a0867/) and the four of us - [Akash](https://fedoraproject.org/wiki/User:T0xic0der), [Samyak](https://fedoraproject.org/wiki/User:Jnsamyak), [Yashwant](https://fedoraproject.org/wiki/User:Yashwanth) and me.
+Before [DevConf.IN 2026](https://www.devconf.info/in/) even started, [Samyak](https://fedoraproject.org/wiki/User:Jnsamyak) created hype for the grand Community Dinner at [Ishaara](https://www.bellonahospitality.com/ishaara), a unique restaurant that employs specially-abled people, offering both great food and a meaningful dining experience. The dinner was supposed to include [Matthew](https://mattdm.org/), Karen (Matthew's wife), [Sayak](https://fedoraproject.org/wiki/User:Sayaksarkar), [Sudhir](https://www.linkedin.com/in/sudhir-dharanendraiah-80a0867/) and the four of us - [Akash](https://fedoraproject.org/wiki/User:T0xic0der), [Samyak](https://fedoraproject.org/wiki/User:Jnsamyak), [Yashwanth](https://fedoraproject.org/wiki/User:Thisisyaash) and me.
 
 This was much anticipated by all of us, but due to a booking mishap, the reservation was confirmed at the wrong Ishaara location, [Ishaara, Wakad](https://maps.app.goo.gl/dDbQNKZWDCkXFE4DA), about 30 kilometers away on the other end of Pune, instead of [Ishaara, Viman Nagar](https://maps.app.goo.gl/1L7sdBURBpteB9wq9). [Akash](https://fedoraproject.org/wiki/User:T0xic0der) had to create a new reservation at the correct location while [Matthew](https://mattdm.org/) and Karen unfortunately ended up at the Wakad branch. This dropped the count by two. Then [Samyak](https://fedoraproject.org/wiki/User:Jnsamyak) informed us that he had a high fever and wouldn't be able to join us. [Sayak](https://fedoraproject.org/wiki/User:Sayaksarkar) also had to take rain check reducing the count by two more.
 
-In the end, after sorting out this mess, only four of us ([Sudhir](https://www.linkedin.com/in/sudhir-dharanendraiah-80a0867/), [Akash](https://fedoraproject.org/wiki/User:T0xic0der), [Yashwant](https://fedoraproject.org/wiki/User:Yashwanth) and me) were there for the much-awaited Community Dinner at [Ishaara, Viman Nagar](https://www.bellonahospitality.com/ishaara). Disappointing, but we made the most of it!
+In the end, after sorting out this mess, only four of us ([Sudhir](https://www.linkedin.com/in/sudhir-dharanendraiah-80a0867/), [Akash](https://fedoraproject.org/wiki/User:T0xic0der), [Yashwanth](https://fedoraproject.org/wiki/User:Thisisyaash) and me) were there for the much-awaited Community Dinner at [Ishaara, Viman Nagar](https://www.bellonahospitality.com/ishaara). Disappointing, but we made the most of it!
 
 [Akash](https://fedoraproject.org/wiki/User:T0xic0der) and I reached the restaurant around **8:00 PM**, and [Sudhir](https://www.linkedin.com/in/sudhir-dharanendraiah-80a0867/) joined us shortly after. The restaurant's inclusive approach of employing specially-abled staff made the experience even more meaningful. While we were waiting for our table, I started talking with [Sudhir](https://www.linkedin.com/in/sudhir-dharanendraiah-80a0867/). I told him about my involvement with the [Fedora Project](https://fedoraproject.org/) and the contributions I'm currently working on. I learned that he's a Senior Manager at Red Hat and leads a team that maintains PyTorch for enterprise AI workloads on Red Hat platforms and even contributes to the PyTorch upstream.
 
-Meanwhile, a staff member at [Ishaara](https://www.bellonahospitality.com/ishaara) took us to our table. [Yashwant](https://fedoraproject.org/wiki/User:Yashwanth) was running a bit late due to high demand for cabs at that time in the evening.
+Meanwhile, a staff member at [Ishaara](https://www.bellonahospitality.com/ishaara) took us to our table. [Yashwanth](https://fedoraproject.org/wiki/User:Thisisyaash) was running a bit late due to high demand for cabs at that time in the evening.
 
-After a while, [Yashwant](https://fedoraproject.org/wiki/User:Yashwanth) arrived. Shortly after, [Akash](https://fedoraproject.org/wiki/User:T0xic0der) ordered the first item for our dinner - a single Bhuna Gosht Pizza. [Sudhir](https://www.linkedin.com/in/sudhir-dharanendraiah-80a0867/) mentioned that he had already had dinner with his team and wouldn't be eating much as he was just there to keep his promise and get to know [Yashwant](https://fedoraproject.org/wiki/User:Yashwanth) and me.
+After a while, [Yashwanth](https://fedoraproject.org/wiki/User:Thisisyaash) arrived. Shortly after, [Akash](https://fedoraproject.org/wiki/User:T0xic0der) ordered the first item for our dinner - a single Bhuna Gosht Pizza. [Sudhir](https://www.linkedin.com/in/sudhir-dharanendraiah-80a0867/) mentioned that he had already had dinner with his team and wouldn't be eating much as he was just there to keep his promise and get to know [Yashwanth](https://fedoraproject.org/wiki/User:Thisisyaash) and me.
 
 [Sudhir](https://www.linkedin.com/in/sudhir-dharanendraiah-80a0867/) left after that, and the three of us remained. Since we all had lunch very late in the afternoon, we weren't that hungry and felt almost full. So we just ordered a plate of Lucknow's famous Galouti Kebab to cleanse our palate.
 
 {{< figure src="images/galouti_kebab.jpg" alt="Galouti Kebab" caption="Galouti Kebab (Shounak Dey, CC BY-SA 4.0)" align="center" >}}
 
-While enjoying the Galouti Kebab, [Yashwant](https://fedoraproject.org/wiki/User:Yashwanth) mentioned some of his future goals around the [Fedora Project](https://fedoraproject.org/) and asked [Akash](https://fedoraproject.org/wiki/User:T0xic0der) what the best place would be to submit a proposal if he had one.
+While enjoying the Galouti Kebab, [Yashwanth](https://fedoraproject.org/wiki/User:Thisisyaash) mentioned some of his future goals around the [Fedora Project](https://fedoraproject.org/) and asked [Akash](https://fedoraproject.org/wiki/User:T0xic0der) what the best place would be to submit a proposal if he had one.
 
 [Akash](https://fedoraproject.org/wiki/User:T0xic0der) explained in detail and told him to first categorize the proposal based on the [Priority Matrix](https://en.wikipedia.org/wiki/Priority_Matrix) and then post it on the [Fedora Project Discussion forum](https://discussion.fedoraproject.org/).
 
 {{< figure src="images/after_dinner.jpeg" alt="After Dinner" caption="After Dinner (Akashdeep Dhar, CC BY-SA 4.0)" align="center" >}}
 
-After dinner, we wrapped up and said our goodbyes. [Akash](https://fedoraproject.org/wiki/User:T0xic0der) and I waited for [Yashwant](https://fedoraproject.org/wiki/User:Yashwanth) to get his cab, and then we started looking for ours. Soon all the cabs arrived and we bid farewell with heavy hearts and a determination to meet again at a similar event.
+After dinner, we wrapped up and said our goodbyes. [Akash](https://fedoraproject.org/wiki/User:T0xic0der) and I waited for [Yashwanth](https://fedoraproject.org/wiki/User:Thisisyaash) to get his cab, and then we started looking for ours. Soon all the cabs arrived and we bid farewell with heavy hearts and a determination to meet again at a similar event.
 
 ---
 
